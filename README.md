@@ -2,7 +2,7 @@ Real Estate Price Prediction for Belgian Municipalities
 -----------------------
 
 This project will predict the yearly real estate price for the Belgian municipalities<br>
-If you only wish to view the final result, you can open the [Jupyter notebook](https://notebooks.azure.com/alexbraila/projects/RealEstate/html/Real%20Estate%20Price%20Prediction%20for%20Belgian%20Municipalities.ipynb), otherwise, you can install everything locally by following the below instructions
+If you only wish to view the final result, you can open the [Jupyter notebook](https://github.com/alexbraila/belgian-real-estate/blob/master/Real%20Estate%20Price%20Prediction%20for%20Belgian%20Municipalities.ipynb), otherwise, you can install everything locally by following the below instructions
 
 Installation
 ----------------------
