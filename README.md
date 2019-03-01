@@ -30,3 +30,11 @@ Usage
 
 * Launch the Jupyter Notebook App and start the notebook `Real Estate Price Prediction for Belgian Municipalities.ipynb`
 * Run the whole notebook
+
+Extending this
+-----------------------
+
+There are a few ideas that you could use should you wish to extend this work:
+* Generate more features for XGBoost (for instance lags and rolls for population, total income etc
+* Try other machine learning algorithms
+* Explore predicting other columns, e.g. mean price and mean area
