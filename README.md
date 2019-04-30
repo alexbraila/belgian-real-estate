@@ -36,6 +36,7 @@ Extending this
 
 There are a few ideas that you could use should you wish to extend this work:
 * Generate more features for XGBoost, for instance lags and rolls for population, total income etc.
+* Use other imputation methods for the missing values
 * Use other and combinations of predictor variables for linear regression
 * Try other machine learning algorithms
 * Explore predicting other columns, e.g. mean price and mean area
